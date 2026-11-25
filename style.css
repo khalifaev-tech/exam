@@ -1,4 +1,4 @@
-.section1{
+.section{
 max-width: 1200px;
 margin: auto;
 justify-content: center;
@@ -25,3 +25,33 @@ margin-left: 400px;
      border: none;
       border-radius: 10px;
 }
+.white-button{
+
+  padding: 15px 20px;
+     background-color: white; 
+     border: 1px solid gray;
+      border-radius: 10px;  
+      border-radius: 15px;
+padding: 15px 20px; 
+margin-top: 10px;
+}
+.contener1{
+   justify-content: space-between;
+    align-items: center;
+    display: flex;
+    gap: 20px; 
+}
+.button-main{
+display: flex;
+gap: 20px;
+border:1px 2px solid grey;
+border-radius: 15px;
+padding: 15px 20px; 
+margin-top: 20px;}
+.img2{
+ margin-top: 40px;
+}
+.gray{
+color: #6E6E6E;
+}
+  

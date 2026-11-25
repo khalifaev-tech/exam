@@ -1,3 +1,6 @@
+
+
+
 .section{
 max-width: 1200px;
 margin: auto;
@@ -54,4 +57,20 @@ margin-top: 20px;}
 .gray{
 color: #6E6E6E;
 }
+.section2{
+    max-width: 1200px;
+    margin: auto;
+
+}
+.orenge{
+    color: #FF9C08;
+
+}
+.c1{
+    gap: 220px;
+}
+.large{
+    font-size:50px;
+}
+
   

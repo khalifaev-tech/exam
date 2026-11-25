@@ -1,0 +1,27 @@
+.section1{
+max-width: 1200px;
+margin: auto;
+justify-content: center;
+align-items: center;
+}
+.contener{
+    display: flex;
+    gap: 50px;
+}
+.img{
+    margin-top: 15px;
+}
+.img1{
+margin-left: 400px;
+ margin-top: 15px;
+}
+.button{
+    color: #FF9C08;
+     margin-top: 10px;
+}
+.m-button{
+   padding: 15px 20px;
+     background-color: #FF9C08; 
+     border: none;
+      border-radius: 10px;
+}
